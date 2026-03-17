@@ -1,0 +1,12 @@
+telebot
+sqlite3
+os
+time
+threading
+datetime
+json
+requests
+uuid
+re
+urllib.parse
+pathlib 
